@@ -1,0 +1,4 @@
+爬虫脚本路径:
+C:\Users\xianglirui\Desktop\Travel\reptile\拉勾网.py
+提词脚本路径：
+C:\Users\xianglirui\Desktop\Travel\reptile\十大热门技术.py
